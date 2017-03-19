@@ -1,4 +1,6 @@
 # MusicEmittingSuitcase
+See the presentation of the MES here: https://steffimetzner.atavist.com/musicemittingsuitcase
+
 In this respository, you can find all the files I used to build up the MES. 
 You can also find the code of the LES, the first Prototype without sounds. 
 
